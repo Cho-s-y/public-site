@@ -178,7 +178,6 @@ main{
   border-bottom:1px solid #fff;
   border-top:1px solid #fff;
   padding:20px 40px;
-  backdrop-filter:blur(5px);
   z-index:50;
 }
 .main_title h4{
